@@ -1,4 +1,4 @@
-n = int(input("Digite um valor: "))
+n = int(input("Digite um número: "))
 
 if n % 2 == 0:
     if n > 10:
@@ -10,4 +10,4 @@ if n % 2 == 0:
 elif n > 5:
     print("D")
 else:
-    print("E")\
+    print("E")
